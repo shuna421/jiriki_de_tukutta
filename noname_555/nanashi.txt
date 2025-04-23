@@ -1,0 +1,16 @@
+  338  git log
+  339  git branch -m master main
+  340  git log
+  341  git commit -m "あははを追加"
+  342  git add nanashi.txt
+  343  git commit -m "あははを追加"
+  344  open .
+  345  echo "あははを追加" >> nanashi.txt
+  346  open .
+  347  git log
+  348  git log --onelien
+  349  git log --oneline
+  350  git add nanashi.txt
+  351  git commit -m "あははを追加を追加"
+  352  git log --oneline
+  353  open .
